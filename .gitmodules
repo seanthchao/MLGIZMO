@@ -1,0 +1,6 @@
+[submodule "gizmo-public"]
+	path = gizmo-public
+	url = https://bitbucket.org/phopkins/gizmo-public.git
+[submodule "SPH3D-GCN"]
+	path = SPH3D-GCN
+	url = https://github.com/hlei-ziyan/SPH3D-GCN.git
