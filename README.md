@@ -29,7 +29,7 @@ python hdf52tfrecord.py [config file]
 
 ### Break down into end to end tests
 
-* Excute ```python train.py/evaluate.py [feature]``` to train/evaluate the model.
+* Execute ```python train.py/evaluate.py [feature]``` to train/evaluate the model.
 
 This test shows how well the SPH-GCN can do to capture physical significances embedded in the simulation results from the state-of-the-art code. To convert the model prediction to the hdf5 file, please execute the ```matToHDF5.py``` and one can use the SPLASH code to visualize the results, like
 ![alt text](https://github.com/seanthchao/MLGIZMO/blob/master/Image/residualMap.png)
